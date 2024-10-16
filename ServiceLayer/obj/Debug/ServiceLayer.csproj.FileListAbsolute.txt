@@ -1,0 +1,326 @@
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\DirecLayer.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\DomainLayer.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\InfrastructureLayer.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\ConverterLib.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\Antlr3.Runtime.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\DirecLayer.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\DomainLayer.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\DomainLayer.dll.config
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\InfrastructureLayer.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\DirecLayer.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\DomainLayer.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\ConverterLib.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\Antlr3.Runtime.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\DirecLayer.pdb
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\DomainLayer.pdb
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\DomainLayer.dll.config
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.pdb
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.pdb
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.xml
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\DIREC\PROJECTS\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\DirecLayer.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\DomainLayer.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\ConverterLib.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\Antlr3.Runtime.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\DirecLayer.pdb
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\DomainLayer.pdb
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\DomainLayer.dll.config
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.pdb
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.pdb
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.xml
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\DIREC\_bak\_NBFI\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\DIREC\_bak\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+D:\DIREC\_bak\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\DIREC\_bak\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+D:\DIREC\_bak\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\DIREC\_bak\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\DirecLayer.dll
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.dll
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\ConverterLib.dll
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.dll
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.dll
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\Antlr3.Runtime.dll
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\DirecLayer.pdb
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\DomainLayer.dll.config
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.pdb
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.pdb
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.xml
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.xml
+C:\P2020\_NBFI\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\P2020\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\P2020\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\P2020\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\P2020\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\P2020\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\DirecLayer.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\ConverterLib.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\Antlr3.Runtime.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\DirecLayer.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\DomainLayer.dll.config
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\DirecLayer.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\ConverterLib.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\Antlr3.Runtime.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\DirecLayer.pdb
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\DomainLayer.dll.config
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.pdb
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.pdb
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.xml
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.xml
+C:\P2020\_NBFI\_NBFI\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\P2020\_NBFI\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csprojAssemblyReference.cache
+C:\P2020\_NBFI\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\P2020\_NBFI\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\P2020\_NBFI\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\P2020\_NBFI\_NBFI\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\DirecLayer.dll
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\DomainLayer.dll
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.dll
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\ConverterLib.dll
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\ExcelDataReader.dll
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\Antlr3.Runtime.dll
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\DirecLayer.pdb
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\DomainLayer.pdb
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\DomainLayer.dll.config
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\InfrastructureLayer.pdb
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\ExcelDataReader.pdb
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\ExcelDataReader.xml
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\GoLive-Support\NBFI\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\GoLive-Support\NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
+D:\GoLive-Support\NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\GoLive-Support\NBFI\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+D:\GoLive-Support\NBFI\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\GoLive-Support\NBFI\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DirecLayer.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\InfrastructureLayer.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ConverterLib.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DirecLayer.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\InfrastructureLayer.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DirecLayer.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\InfrastructureLayer.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ConverterLib.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Antlr3.Runtime.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DirecLayer.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.dll.config
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\InfrastructureLayer.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DirecLayer.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\InfrastructureLayer.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ConverterLib.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Antlr3.Runtime.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DirecLayer.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.dll.config
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\InfrastructureLayer.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\DirecLayer.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\InfrastructureLayer.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\System.Buffers.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\System.Memory.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\ConverterLib.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\Antlr3.Runtime.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\DirecLayer.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\DomainLayer.dll.config
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\InfrastructureLayer.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\System.Buffers.xml
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\System.Memory.xml
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.xml
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csproj.AssemblyReference.cache
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceL.3037F684.Up2Date
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\Projects Visual Studio\NBFI_EasySAP\ServiceLayer\obj\Debug\ServiceLayer.pdb

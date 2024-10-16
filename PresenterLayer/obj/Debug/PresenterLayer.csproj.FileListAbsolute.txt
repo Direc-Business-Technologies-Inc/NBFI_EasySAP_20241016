@@ -1,0 +1,1517 @@
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\EasySAP.exe.config
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\EasySAP.exe
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\EasySAP.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\ConverterLib.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.Shared.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\DirecLayer.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\DomainLayer.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\EntityFramework.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\InfrastructureLayer.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\MetroFramework.Design.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\MetroFramework.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\MetroFramework.Fonts.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\Seagull.BarTender.Print.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\ServiceLayer.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\Unity.Abstractions.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\Unity.Container.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\FlashControlV71.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\stdole.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\ShockwaveFlashObjects.dll
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\DirecLayer.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\DomainLayer.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\DomainLayer.dll.config
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\InfrastructureLayer.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\ServiceLayer.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\EntityFramework.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\Seagull.BarTender.Print.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\Unity.Abstractions.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\Unity.Container.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csprojResolveAssemblyReference.cache
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoice.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoiceItemList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\EasySAP.frmSI_DrawDoumentWizard.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodePerBP.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodeAll.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItems.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmColumnSearch.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmDt_Modal.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT_UDF.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmShowMessage.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcGeneric.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcMainMenu.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcTemplateCreation.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_carton.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_delivery.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_itr.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_salesorder.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAllocationWizard.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_DefineNew.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Filter.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Find.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPackingList_ItemList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPacklist.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmPackingListConcessionaire_Search.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.PackingList_Conssionaire.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmTransferRequestItemList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmInventoryTransferRequest.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonManagement.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.FrmGoodsReceiptPO.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmIT_DrawDoumentWizard.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.FrmTransferItemList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.InventoryTransfer.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmInventoryCount.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmSearchInventoryCount.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.InventoryCount_Posting.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItemMasterData.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNewCustom.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_Search.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_ChooseFromList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNew.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmPackingList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmpackinglist_udf.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmSearchPackingList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmViewReportModal.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.ErrorLogs.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmFreezeItems.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmItemSelection.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmMultiplePrint.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDelivery.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.Loading_Screen.FrmLoadingScreen.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Main.MainForm.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Properties.Resources.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.FrmPurchaseOrder.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer.FrmPurchasingItemList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrder.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrderItemList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSales.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSalesItemList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.ChooseCompanyForm.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.LoginForm.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.SettingsForm.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Tools.frmDuplicateItemSelection.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmPreviewItenlist.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmSearch.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmblank.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports2.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmDefineNew.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmQueryGenerator.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmReportList.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmSearch2.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmShortcut.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmShortcutKeys.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Tools.frm_UDF.resources
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.GenerateResource.Cache
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\EasySAP.exe
+D:\Direc Projects\NBFI\EasySAP 2019 2.2\EasySAP\PresenterLayer\obj\Debug\EasySAP.pdb
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\EasySAP.exe.config
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\EasySAP.exe
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\EasySAP.pdb
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Shared.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\DirecLayer.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\DomainLayer.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\EntityFramework.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\MetroFramework.Design.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\MetroFramework.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\MetroFramework.Fonts.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\ServiceLayer.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\Unity.Container.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\FlashControlV71.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\stdole.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\ShockwaveFlashObjects.dll
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\DirecLayer.pdb
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\DomainLayer.pdb
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\DomainLayer.dll.config
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.pdb
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\ServiceLayer.pdb
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\EntityFramework.xml
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.xml
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.xml
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.pdb
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\Unity.Container.pdb
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.pdb
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.xml
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csprojAssemblyReference.cache
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoice.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoiceItemList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\EasySAP.frmSI_DrawDoumentWizard.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodePerBP.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodeAll.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItems.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmColumnSearch.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmDt_Modal.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT_UDF.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmShowMessage.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcGeneric.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcMainMenu.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcTemplateCreation.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_carton.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_delivery.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_itr.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_salesorder.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAllocationWizard.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_DefineNew.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Filter.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Find.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPackingList_ItemList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPacklist.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingListConcessionaire_Search.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.PackingList_Conssionaire.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmTransferRequestItemList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmInventoryTransferRequest.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonManagement.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.FrmGoodsReceiptPO.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmIT_DrawDoumentWizard.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.FrmTransferItemList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.InventoryTransfer.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmInventoryCount.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchInventoryCount.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.InventoryCount_Posting.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItemMasterData.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNewCustom.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_Search.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_ChooseFromList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNew.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmpackinglist_udf.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchPackingList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmViewReportModal.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.ErrorLogs.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmFreezeItems.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmItemSelection.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmMultiplePrint.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDelivery.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.Loading_Screen.FrmLoadingScreen.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Main.MainForm.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Properties.Resources.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.FrmPurchaseOrder.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer.FrmPurchasingItemList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrder.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrderItemList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSales.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSalesItemList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.ChooseCompanyForm.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.LoginForm.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.SettingsForm.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Tools.frmDuplicateItemSelection.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmPreviewItenlist.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmblank.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports2.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmDefineNew.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmQueryGenerator.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmReportList.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch2.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcut.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcutKeys.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Tools.frm_UDF.resources
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.GenerateResource.cache
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CoreCompileInputs.cache
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CopyComplete
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\EasySAP.exe
+D:\DIREC\PROJECTS\_NBFI\PresenterLayer\obj\Debug\EasySAP.pdb
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\EasySAP.exe.config
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\EasySAP.exe
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\EasySAP.pdb
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Shared.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\DirecLayer.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\DomainLayer.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\EntityFramework.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\MetroFramework.Design.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\MetroFramework.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\MetroFramework.Fonts.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\ServiceLayer.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\Unity.Container.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\FlashControlV71.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\stdole.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\ShockwaveFlashObjects.dll
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\DirecLayer.pdb
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\DomainLayer.pdb
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\DomainLayer.dll.config
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.pdb
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\ServiceLayer.pdb
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\EntityFramework.xml
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.xml
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.xml
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.pdb
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\Unity.Container.pdb
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.pdb
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.xml
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\DIREC\_bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csprojAssemblyReference.cache
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoice.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoiceItemList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\EasySAP.frmSI_DrawDoumentWizard.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodePerBP.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodeAll.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItems.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmColumnSearch.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmDt_Modal.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT_UDF.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmShowMessage.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcGeneric.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcMainMenu.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcTemplateCreation.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_carton.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_delivery.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_itr.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_salesorder.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAllocationWizard.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_DefineNew.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Filter.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Find.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPackingList_ItemList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPacklist.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingListConcessionaire_Search.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.PackingList_Conssionaire.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmTransferRequestItemList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmInventoryTransferRequest.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonManagement.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.FrmGoodsReceiptPO.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmIT_DrawDoumentWizard.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.FrmTransferItemList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.InventoryTransfer.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmInventoryCount.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchInventoryCount.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.InventoryCount_Posting.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItemMasterData.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNewCustom.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_Search.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_ChooseFromList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNew.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmpackinglist_udf.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchPackingList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmViewReportModal.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.ErrorLogs.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmFreezeItems.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmItemSelection.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmMultiplePrint.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDelivery.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.Loading_Screen.FrmLoadingScreen.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Main.MainForm.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Properties.Resources.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.FrmPurchaseOrder.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.FrmPurchasingItemList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrder.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrderItemList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSales.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSalesItemList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.ChooseCompanyForm.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.LoginForm.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.SettingsForm.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Tools.frmDuplicateItemSelection.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmPreviewItenlist.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmblank.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports2.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmDefineNew.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmQueryGenerator.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmReportList.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch2.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcut.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcutKeys.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Tools.frm_UDF.resources
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.GenerateResource.cache
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CoreCompileInputs.cache
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CopyComplete
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\EasySAP.exe
+D:\DIREC\_bak\_NBFI\PresenterLayer\obj\Debug\EasySAP.pdb
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\EasySAP.exe.config
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\EasySAP.exe
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\EasySAP.pdb
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Antlr3.Runtime.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\ConverterLib.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Shared.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\DirecLayer.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\DomainLayer.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\EntityFramework.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\MetroFramework.Design.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\MetroFramework.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\MetroFramework.Fonts.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\ServiceLayer.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Unity.Container.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\FlashControlV71.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\stdole.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\ShockwaveFlashObjects.dll
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\DirecLayer.pdb
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\DomainLayer.pdb
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\DomainLayer.dll.config
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.pdb
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\ServiceLayer.pdb
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\EntityFramework.xml
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.xml
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.xml
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.pdb
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\Unity.Container.pdb
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.pdb
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.xml
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\P2020\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.xml
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csprojAssemblyReference.cache
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoice.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoiceItemList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\EasySAP.frmSI_DrawDoumentWizard.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodePerBP.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodeAll.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItems.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmColumnSearch.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmDt_Modal.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT_UDF.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmShowMessage.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcGeneric.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcMainMenu.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcTemplateCreation.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_carton.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_delivery.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_itr.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_salesorder.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAllocationWizard.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_DefineNew.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Filter.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Find.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPackingList_ItemList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPacklist.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingListConcessionaire_Search.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.PackingList_Conssionaire.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmTransferRequestItemList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmInventoryTransferRequest.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonManagement.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.FrmGoodsReceiptPO.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmIT_DrawDoumentWizard.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.FrmTransferItemList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.InventoryTransfer.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmInventoryCount.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchInventoryCount.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.InventoryCount_Posting.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItemMasterData.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNewCustom.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_Search.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_ChooseFromList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNew.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmpackinglist_udf.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchPackingList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmViewReportModal.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.ErrorLogs.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmFreezeItems.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmItemSelection.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmMultiplePrint.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDelivery.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.Loading_Screen.FrmLoadingScreen.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Main.MainForm.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Properties.Resources.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.FrmPurchaseOrder.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer.FrmPurchasingItemList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrder.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrderItemList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSales.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSalesItemList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.ChooseCompanyForm.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.LoginForm.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.SettingsForm.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Tools.frmDuplicateItemSelection.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmPreviewItenlist.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmblank.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports2.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmDefineNew.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmQueryGenerator.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmReportList.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch2.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcut.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcutKeys.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Tools.frm_UDF.resources
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.GenerateResource.cache
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CoreCompileInputs.cache
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CopyComplete
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\EasySAP.exe
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\EasySAP.pdb
+C:\P2020\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_invoice.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\EasySAP.exe.config
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\EasySAP.exe
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\EasySAP.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Shared.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\DirecLayer.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\DomainLayer.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\EntityFramework.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\MetroFramework.Design.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\MetroFramework.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\MetroFramework.Fonts.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\ServiceLayer.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\Unity.Container.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\FlashControlV71.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\stdole.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\ShockwaveFlashObjects.dll
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\DirecLayer.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\DomainLayer.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\DomainLayer.dll.config
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\ServiceLayer.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\EntityFramework.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\Unity.Container.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.xml
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csprojAssemblyReference.cache
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoice.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoiceItemList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\EasySAP.frmSI_DrawDoumentWizard.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodePerBP.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodeAll.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItems.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmColumnSearch.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmDt_Modal.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT_UDF.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmShowMessage.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcGeneric.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcMainMenu.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcTemplateCreation.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_carton.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_delivery.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_invoice.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_itr.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_salesorder.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAllocationWizard.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_DefineNew.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Filter.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Find.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPackingList_ItemList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPacklist.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingListConcessionaire_Search.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.PackingList_Conssionaire.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmTransferRequestItemList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmInventoryTransferRequest.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonManagement.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.FrmGoodsReceiptPO.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmIT_DrawDoumentWizard.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.FrmTransferItemList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.InventoryTransfer.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmInventoryCount.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchInventoryCount.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.InventoryCount_Posting.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItemMasterData.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNewCustom.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_Search.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_ChooseFromList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNew.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmpackinglist_udf.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchPackingList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmViewReportModal.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.ErrorLogs.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmFreezeItems.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmItemSelection.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmMultiplePrint.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDelivery.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.Loading_Screen.FrmLoadingScreen.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Main.MainForm.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Properties.Resources.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.FrmPurchaseOrder.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.FrmPurchasingItemList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrder.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrderItemList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSales.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSalesItemList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.ChooseCompanyForm.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.LoginForm.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.SettingsForm.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Tools.frmDuplicateItemSelection.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmPreviewItenlist.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmblank.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports2.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmDefineNew.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmQueryGenerator.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmReportList.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch2.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcut.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcutKeys.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Tools.frm_UDF.resources
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.GenerateResource.cache
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CoreCompileInputs.cache
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CopyComplete
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\EasySAP.exe
+C:\P2020\_NBFI.bak\EasySAP_0416_1000.bak\_NBFI\PresenterLayer\obj\Debug\EasySAP.pdb
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\EasySAP.exe.config
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\EasySAP.exe
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\EasySAP.pdb
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Shared.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\DirecLayer.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\DomainLayer.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\EntityFramework.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\MetroFramework.Design.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\MetroFramework.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\MetroFramework.Fonts.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\ServiceLayer.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\Unity.Container.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\FlashControlV71.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\stdole.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\ShockwaveFlashObjects.dll
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\DirecLayer.pdb
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\DomainLayer.pdb
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\DomainLayer.dll.config
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.pdb
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\ServiceLayer.pdb
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\EntityFramework.xml
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.xml
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.xml
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.pdb
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\Unity.Container.pdb
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.pdb
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.xml
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\P2020\_NBFI\_NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.xml
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csprojAssemblyReference.cache
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoice.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoiceItemList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\EasySAP.frmSI_DrawDoumentWizard.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodePerBP.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodeAll.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItems.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmColumnSearch.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmDt_Modal.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT_UDF.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmShowMessage.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcGeneric.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcMainMenu.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcTemplateCreation.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_carton.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_delivery.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_creditmemo.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_invoice.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_itr.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_salesorder.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAllocationWizard.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_DefineNew.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Filter.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Find.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPackingList_ItemList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPacklist.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingListConcessionaire_Search.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.PackingList_Conssionaire.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmTransferRequestItemList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmInventoryTransferRequest.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonManagement.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.FrmGoodsReceiptPO.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmIT_DrawDoumentWizard.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.FrmTransferItemList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.InventoryTransfer.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmInventoryCount.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchInventoryCount.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.InventoryCount_Posting.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItemMasterData.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNewCustom.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_Search.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_ChooseFromList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNew.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmpackinglist_udf.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchPackingList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmViewReportModal.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.ErrorLogs.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmFreezeItems.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmItemSelection.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmMultiplePrint.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDelivery.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.Loading_Screen.FrmLoadingScreen.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Main.MainForm.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Properties.Resources.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.FrmPurchaseOrder.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer.FrmPurchasingItemList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrder.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrderItemList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSales.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSalesItemList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.ChooseCompanyForm.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.LoginForm.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.SettingsForm.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Tools.frmDuplicateItemSelection.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmPreviewItenlist.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmblank.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports2.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmDefineNew.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmQueryGenerator.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmReportList.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch2.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcut.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcutKeys.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.Tools.frm_UDF.resources
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.GenerateResource.cache
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CoreCompileInputs.cache
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CopyComplete
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\EasySAP.exe
+C:\P2020\_NBFI\_NBFI\PresenterLayer\obj\Debug\EasySAP.pdb
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\EasySAP.exe.config
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\EasySAP.exe
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\EasySAP.pdb
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Shared.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\DirecLayer.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\DomainLayer.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\EntityFramework.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\MetroFramework.Design.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\MetroFramework.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\MetroFramework.Fonts.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\ServiceLayer.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Unity.Container.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\ExcelDataReader.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\FlashControlV71.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\stdole.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\ShockwaveFlashObjects.dll
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\DirecLayer.pdb
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\DomainLayer.pdb
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\DomainLayer.dll.config
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\InfrastructureLayer.pdb
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\ServiceLayer.pdb
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\EntityFramework.xml
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Newtonsoft.Json.xml
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.pdb
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Seagull.BarTender.Print.xml
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Unity.Abstractions.pdb
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\Unity.Container.pdb
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\ExcelDataReader.pdb
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\ExcelDataReader.xml
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\GoLive-Support\NBFI\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.AssemblyReference.cache
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\EasySAP.exe.config
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoice.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoiceItemList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\EasySAP.frmSI_DrawDoumentWizard.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodePerBP.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodeAll.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItems.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmColumnSearch.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmDt_Modal.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT_UDF.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmShowMessage.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcGeneric.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcMainMenu.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcTemplateCreation.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_carton.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_delivery.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_creditmemo.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_invoice.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_itr.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_salesorder.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAllocationWizard.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_DefineNew.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Filter.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Find.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPackingList_ItemList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPacklist.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingListConcessionaire_Search.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.PackingList_Conssionaire.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmTransferRequestItemList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmInventoryTransferRequest.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonManagement.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.FrmGoodsReceiptPO.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmIT_DrawDoumentWizard.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.FrmTransferItemList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.InventoryTransfer.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmInventoryCount.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchInventoryCount.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.InventoryCount_Posting.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItemMasterData.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNewCustom.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_Search.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_ChooseFromList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNew.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmPackingList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmpackinglist_udf.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmSearchPackingList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmViewReportModal.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.ErrorLogs.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmFreezeItems.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.frmItemSelection.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmMultiplePrint.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDelivery.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.Loading_Screen.FrmLoadingScreen.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Main.MainForm.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Properties.Resources.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.FrmPurchaseOrder.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer.FrmPurchasingItemList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrder.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrderItemList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSales.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSalesItemList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.ChooseCompanyForm.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.LoginForm.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.SettingsForm.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.Tools.frmDuplicateItemSelection.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmPreviewItenlist.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer.frmblank.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports2.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer.frmDefineNew.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer.frmQueryGenerator.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer.frmReportList.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer.frmSearch2.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcut.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\DirecLayer.frmShortcutKeys.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.Tools.frm_UDF.resources
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.GenerateResource.cache
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CoreCompileInputs.cache
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\PresenterLayer.csproj.CopyComplete
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\EasySAP.exe
+D:\GoLive-Support\NBFI\PresenterLayer\obj\Debug\EasySAP.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.exe
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.AssemblyReference.cache
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.exe.config
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoice.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoiceItemList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.frmSI_DrawDoumentWizard.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodePerBP.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodeAll.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItems.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmColumnSearch.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmDt_Modal.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT_UDF.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmShowMessage.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcGeneric.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcMainMenu.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcTemplateCreation.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_carton.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_delivery.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_creditmemo.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_invoice.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_itr.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_salesorder.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAllocationWizard.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_DefineNew.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Filter.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Find.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPackingList_ItemList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPacklist.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmPackingListConcessionaire_Search.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.PackingList_Conssionaire.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmTransferRequestItemList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmInventoryTransferRequest.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonManagement.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.FrmGoodsReceiptPO.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmIT_DrawDoumentWizard.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.FrmTransferItemList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.InventoryTransfer.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmInventoryCount.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmSearchInventoryCount.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.InventoryCount_Posting.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItemMasterData.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNewCustom.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_Search.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_ChooseFromList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNew.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmPackingList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmpackinglist_udf.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmSearchPackingList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmViewReportModal.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.ErrorLogs.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmFreezeItems.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmItemSelection.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmMultiplePrint.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDelivery.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.Loading_Screen.FrmLoadingScreen.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Main.MainForm.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Properties.Resources.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.FrmPurchaseOrder.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.FrmPurchasingItemList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrder.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrderItemList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSales.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSalesItemList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.ChooseCompanyForm.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.LoginForm.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.SettingsForm.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Tools.frmDuplicateItemSelection.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmPreviewItenlist.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmSearch.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmblank.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports2.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmDefineNew.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmQueryGenerator.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmReportList.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmSearch2.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmShortcut.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmShortcutKeys.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Tools.frm_UDF.resources
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.GenerateResource.cache
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.CoreCompileInputs.cache
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.exe.config
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.exe
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DirecLayer.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\InfrastructureLayer.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.Design.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ServiceLayer.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Abstractions.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Container.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\stdole.dll
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DirecLayer.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.dll.config
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\InfrastructureLayer.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Seagull.BarTender.Print.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Container.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Danilo II Veroy\Documents\Visual Studio 2022\Clients\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.CopyComplete
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.exe.config
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.exe
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DirecLayer.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\InfrastructureLayer.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.Design.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.Fonts.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ServiceLayer.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Abstractions.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Container.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\stdole.dll
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DirecLayer.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.dll.config
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\InfrastructureLayer.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ServiceLayer.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Seagull.BarTender.Print.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Abstractions.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Container.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.AssemblyReference.cache
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.SuggestedBindingRedirects.cache
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.exe.config
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoice.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoiceItemList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.frmSI_DrawDoumentWizard.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodePerBP.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodeAll.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItems.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmColumnSearch.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmDt_Modal.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT_UDF.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmShowMessage.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcGeneric.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcMainMenu.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcTemplateCreation.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_carton.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_delivery.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_creditmemo.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_invoice.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_itr.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_salesorder.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAllocationWizard.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_DefineNew.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Filter.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Find.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPackingList_ItemList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPacklist.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmPackingListConcessionaire_Search.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.PackingList_Conssionaire.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmTransferRequestItemList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmInventoryTransferRequest.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonManagement.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.FrmGoodsReceiptPO.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmIT_DrawDoumentWizard.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.FrmTransferItemList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.InventoryTransfer.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmInventoryCount.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmSearchInventoryCount.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.InventoryCount_Posting.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItemMasterData.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNewCustom.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_Search.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_ChooseFromList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNew.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmPackingList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmpackinglist_udf.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmSearchPackingList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmViewReportModal.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.ErrorLogs.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmFreezeItems.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmItemSelection.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmMultiplePrint.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDelivery.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.Loading_Screen.FrmLoadingScreen.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Main.MainForm.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Properties.Resources.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.FrmPurchaseOrder.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.FrmPurchasingItemList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrder.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrderItemList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSales.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSalesItemList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.ChooseCompanyForm.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.LoginForm.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.SettingsForm.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Tools.frmDuplicateItemSelection.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmPreviewItenlist.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmSearch.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmblank.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports2.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmDefineNew.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmQueryGenerator.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmReportList.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmSearch2.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmShortcut.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmShortcutKeys.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Tools.frm_UDF.resources
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.GenerateResource.cache
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.CoreCompileInputs.cache
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.CopyComplete
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.exe
+C:\Files\Visual Studio 2022\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.exe.config
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.exe
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.Shared.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DirecLayer.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\InfrastructureLayer.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.Design.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.Fonts.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Newtonsoft.Json.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ServiceLayer.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Abstractions.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Container.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\FlashControlV71.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\stdole.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ShockwaveFlashObjects.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DirecLayer.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.dll.config
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\InfrastructureLayer.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ServiceLayer.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Newtonsoft.Json.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Abstractions.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Container.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.AssemblyReference.cache
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.SuggestedBindingRedirects.cache
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.exe.config
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoice.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoiceItemList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.frmSI_DrawDoumentWizard.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodePerBP.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodeAll.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItems.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmColumnSearch.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmDt_Modal.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT_UDF.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmShowMessage.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcGeneric.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcMainMenu.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcTemplateCreation.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_carton.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_delivery.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_creditmemo.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_invoice.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_itr.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_salesorder.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAllocationWizard.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_DefineNew.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Filter.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Find.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPackingList_ItemList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPacklist.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmPackingListConcessionaire_Search.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.PackingList_Conssionaire.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmTransferRequestItemList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmInventoryTransferRequest.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonManagement.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.FrmGoodsReceiptPO.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmIT_DrawDoumentWizard.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.FrmTransferItemList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.InventoryTransfer.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmInventoryCount.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmSearchInventoryCount.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.InventoryCount_Posting.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItemMasterData.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNewCustom.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_Search.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_ChooseFromList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNew.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmPackingList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmpackinglist_udf.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmSearchPackingList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmViewReportModal.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.ErrorLogs.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmFreezeItems.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmItemSelection.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmMultiplePrint.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDelivery.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.Loading_Screen.FrmLoadingScreen.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Main.MainForm.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Properties.Resources.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.FrmPurchaseOrder.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.FrmPurchasingItemList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrder.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrderItemList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSales.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSalesItemList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.ChooseCompanyForm.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.LoginForm.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.SettingsForm.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Tools.frmDuplicateItemSelection.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmPreviewItenlist.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmSearch.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmblank.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports2.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmDefineNew.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmQueryGenerator.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmReportList.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmSearch2.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmShortcut.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmShortcutKeys.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Tools.frm_UDF.resources
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.GenerateResource.cache
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.CoreCompileInputs.cache
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.CopyComplete
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.exe
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.pdb
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Seagull.BarTender.Print.dll
+D:\PROJECTS\NBFI\NBFI_EasySAP\PresenterLayer\bin\Debug\Seagull.BarTender.Print.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.exe.config
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.exe
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\EasySAP.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.Shared.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\DirecLayer.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\InfrastructureLayer.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.Design.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\MetroFramework.Fonts.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Seagull.BarTender.Print.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\ServiceLayer.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Buffers.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Memory.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Numerics.Vectors.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Abstractions.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Container.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.Web.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\ShockwaveFlashObjects.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\stdole.dll
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\DirecLayer.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\DomainLayer.dll.config
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\InfrastructureLayer.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\ServiceLayer.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\ServiceLayer.dll.config
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Sap.Data.Hana.v4.5.dll.config
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Seagull.BarTender.Print.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Buffers.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Memory.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Numerics.Vectors.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Abstractions.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\Unity.Container.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.AssemblyReference.cache
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.SuggestedBindingRedirects.cache
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.exe.config
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoice.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmARInvoiceItemList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.frmSI_DrawDoumentWizard.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodePerBP.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmBarcodeAll.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItems.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmColumnSearch.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmDt_Modal.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDT_UDF.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmShowMessage.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcGeneric.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcMainMenu.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcTemplateCreation.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_carton.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_delivery.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_creditmemo.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Data_Transfer.UC.UDF.UcUDF_invoice.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_itr.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.UcUDF_salesorder.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAllocationWizard.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_DefineNew.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Filter.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmAW_Find.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPackingList_ItemList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmOutGoingPacklist.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmPackingListConcessionaire_Search.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.PackingList_Conssionaire.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmTransferRequestItemList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer_Request.FrmInventoryTransferRequest.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmCartonManagement.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.FrmGoodsReceiptPO.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmIT_DrawDoumentWizard.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.FrmTransferItemList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Inventory.Inventory_Transfer.InventoryTransfer.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmInventoryCount.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmSearchInventoryCount.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.InventoryCount_Posting.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmItemMasterData.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNewCustom.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_Search.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_ChooseFromList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmITM_DefineNew.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmPackingList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmpackinglist_udf.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmSearchPackingList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmViewReportModal.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.ErrorLogs.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmFreezeItems.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.frmItemSelection.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmMultiplePrint.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.frmDelivery.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.Loading_Screen.FrmLoadingScreen.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Main.MainForm.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Properties.Resources.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer._02_Form.MVP.Views.FrmPurchaseOrder.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.FrmPurchasingItemList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrder.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmSalesOrderItemList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSales.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmUnofficialSalesItemList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.ChooseCompanyForm.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.LoginForm.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Security.SettingsForm.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.Tools.frmDuplicateItemSelection.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Views.FrmPreviewItenlist.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmSearch.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmblank.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmCrystalReports2.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmDefineNew.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmQueryGenerator.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmReportList.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmSearch2.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmShortcut.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\DirecLayer.frmShortcutKeys.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.Tools.frm_UDF.resources
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.GenerateResource.cache
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\PresenterLayer.csproj.CoreCompileInputs.cache
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\Presente.7B0912B8.Up2Date
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.exe
+D:\Projects Visual Studio\NBFI_EasySAP\PresenterLayer\obj\Debug\EasySAP.pdb

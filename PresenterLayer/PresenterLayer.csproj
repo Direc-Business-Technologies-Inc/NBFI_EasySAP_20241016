@@ -1,0 +1,1077 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{160A597D-949E-4C58-88E6-C32E68C1EFE4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PresenterLayer</RootNamespace>
+    <AssemblyName>EasySAP</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseWinFormsOutOfProcDesigner>True</UseWinFormsOutOfProcDesigner>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseWinFormsOutOfProcDesigner>True</UseWinFormsOutOfProcDesigner>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\EasySAP.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Packages\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="ConverterLib, Version=1.0.1341.803, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Packages\ConverterLib.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Design, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSXML2, Version=6.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\Project Files\External Library\Interop.MSXML2.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Sap.Data.Hana.v4.5, Version=2.5.86.0, Culture=neutral, PublicKeyToken=0326b8ea63db4bc4, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\sap\hdbclient_v2_5\ado.net\v4.5\Sap.Data.Hana.v4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Seagull.BarTender.Print, Version=10.1.3.1, Culture=neutral, PublicKeyToken=109ff779a1b4cbc7, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files (x86)\Seagull\BarTender Suite\SDK\Assemblies\Seagull.BarTender.Print.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=8.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.8.0.1\lib\net462\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Channels, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Channels.8.0.0\lib\net462\System.Threading.Channels.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Unity.Abstractions, Version=4.1.3.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.10.3\lib\net45\Unity.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Container, Version=5.10.3.0, Culture=neutral, PublicKeyToken=489b6accfaf20ef0, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unity.5.10.3\lib\net45\Unity.Container.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Helper\DataRepository.cs" />
+    <Compile Include="Helper\FormHelper.cs" />
+    <Compile Include="Helper\Invoice\InvoiceHeaderModel.cs" />
+    <Compile Include="Helper\Invoice\InvoiceItemModel.cs" />
+    <Compile Include="Helper\IPreviewItemRepository.cs" />
+    <Compile Include="Helper\PreviewItemPresenter.cs" />
+    <Compile Include="Helper\PriceTag.cs" />
+    <Compile Include="Helper\Purchase Order\PurchasingAP_Computation.cs" />
+    <Compile Include="Helper\Purchase Order\PurchasingAP_generics.cs" />
+    <Compile Include="Helper\Purchase Order\PurchasingAP_Style.cs" />
+    <Compile Include="Helper\SalesOrder\SalesAR_generics.cs" />
+    <Compile Include="Helper\SalesOrder\SalesOrderItemsController.cs" />
+    <Compile Include="Helper\SalesOrder\SalesOrderItemsModel.cs" />
+    <Compile Include="Helper\SalesOrder\SalesOrdersHeaderModel.cs" />
+    <Compile Include="Helper\SalesOrder\SalesRepository.cs" />
+    <Compile Include="Helper\SalesOrder\SalesStyles.cs" />
+    <Compile Include="Helper\SalesOrder\SOmaintenance.cs" />
+    <Compile Include="Helper\SAPHanaHelper.cs" />
+    <Compile Include="Helper\SboCredHelper.cs" />
+    <Compile Include="Helper\SP.cs" />
+    <Compile Include="Helper\StaticHelper.cs" />
+    <Compile Include="Helper\Unofficial Sales\ITmaintenance.cs" />
+    <Compile Include="Helper\ITRHelper.cs" />
+    <Compile Include="Helper\Unofficial Sales\UnofficialSalesHeaderModel.cs" />
+    <Compile Include="Helper\Unofficial Sales\UnofficialSalesItemsController.cs" />
+    <Compile Include="Helper\Unofficial Sales\UnofficialSalesItemsModel.cs" />
+    <Compile Include="Helper\Unofficial Sales\UOS_ServiceLayer.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Services\AR Invoice\ARInvoiceModel.cs" />
+    <Compile Include="Services\AR Invoice\DataRepositoryForInvoice.cs" />
+    <Compile Include="Services\AR Invoice\IARInvoiceModel.cs" />
+    <Compile Include="Services\AR Invoice\InvoiceService.cs" />
+    <Compile Include="Helper\StringParameters.cs" />
+    <Compile Include="Helper\StringQueryRepository.cs" />
+    <Compile Include="Helper\UdfRepository.cs" />
+    <Compile Include="Services\AR Invoice\SalesInvoiceItemsController.cs" />
+    <Compile Include="Services\Barcode Printing\LinqAccess.cs" />
+    <Compile Include="Services\Barcode Printing\PrintingPerDocument\BarcodeCtrl.cs" />
+    <Compile Include="Services\Carton List\CartonController.cs" />
+    <Compile Include="Services\Carton List\CartonListModel.cs" />
+    <Compile Include="Services\Carton List\CartonListPresenter.cs" />
+    <Compile Include="Services\Carton List\ICartonListModel.cs" />
+    <Compile Include="Services\Carton Management\CartonManagementModel.cs" />
+    <Compile Include="Services\Carton Management\CartonManagementPresenter.cs" />
+    <Compile Include="Services\Carton Management\ICartonManagementModel.cs" />
+    <Compile Include="Services\Data Transfer\DtController.cs" />
+    <Compile Include="Services\Data Transfer\DtDgvController.cs" />
+    <Compile Include="Services\Data Transfer\UploadController.cs" />
+    <Compile Include="Services\Inventory\Inventory Transfer Request\IInventoryTransferRequestService.cs" />
+    <Compile Include="Services\Inventory\Inventory Transfer Request\InventoryTransferRequestItemsController.cs" />
+    <Compile Include="Services\Inventory\Inventory Transfer Request\InventoryTransferRequestService.cs" />
+    <Compile Include="Services\Inventory\Inventory Transfer Request\ITRmaintenance.cs" />
+    <Compile Include="Services\Inventory\Inventory Transfer Request\ITR_ServiceLayer.cs" />
+    <Compile Include="Services\Inventory\Inventory Transfer\InventoryTransferItemsController.cs" />
+    <Compile Include="Services\Inventory\Inventory Transfer\InventoryTransferService.cs" />
+    <Compile Include="Services\Inventory\Inventory Transfer\ITmaintenance.cs" />
+    <Compile Include="Services\Inventory\Inventory Transfer\IT_ServiceLayer.cs" />
+    <Compile Include="Services\Inventory\ItemMasterData\ITM_ChooseFromList.cs" />
+    <Compile Include="Services\Inventory\ItemMasterData\ITM_Color.cs" />
+    <Compile Include="Services\Inventory\ItemMasterData\ITM_DefineNew.cs" />
+    <Compile Include="Services\Inventory\ItemMasterData\ITM_DefineNewCustom.cs" />
+    <Compile Include="Services\Inventory\ItemMasterData\ITM_Form.cs" />
+    <Compile Include="Services\Inventory\ItemMasterData\ITM_Preview.cs" />
+    <Compile Include="Services\Inventory\ItemMasterData\ITM_Price.cs" />
+    <Compile Include="Services\Inventory\ItemMasterData\ITM_QuantityPerCarton.cs" />
+    <Compile Include="Services\Inventory\ItemMasterData\ITM_Size.cs" />
+    <Compile Include="Services\Inventory\ItemMasterData\ITM_SL.cs" />
+    <Compile Include="Services\GRPO\GoodReceiptModel.cs" />
+    <Compile Include="Services\GRPO\GoodReceiptService.cs" />
+    <Compile Include="Services\GRPO\IGoodReceiptModel.cs" />
+    <Compile Include="Helper\PublicHelper.cs" />
+    <Compile Include="Services\Inventory\Allocation Wizard\AW_Button.cs" />
+    <Compile Include="Services\Inventory\Allocation Wizard\AW_DataGridview.cs" />
+    <Compile Include="Services\Inventory\Allocation Wizard\AW_DefineNew_Form.cs" />
+    <Compile Include="Services\Inventory\Allocation Wizard\AW_Filter_Form.cs" />
+    <Compile Include="Services\Inventory\Allocation Wizard\AW_Find_Form.cs" />
+    <Compile Include="Services\Inventory\Allocation Wizard\AW_Form.cs" />
+    <Compile Include="Services\Inventory\Allocation Wizard\AW_Generate.cs" />
+    <Compile Include="Services\Inventory\OutgoingPackingList\OutGoingRepository.cs" />
+    <Compile Include="Services\Main\MainService.cs" />
+    <Compile Include="Services\Purchase Order\IPurchaseOrderModel.cs" />
+    <Compile Include="Services\Purchase Order\PurchaseOrderModel.cs" />
+    <Compile Include="Services\Purchase Order\PurchaseOrderService.cs" />
+    <Compile Include="Services\Sales Order\DataRepositoryForSO.cs" />
+    <Compile Include="Services\Sales Order\ISalesOrderModel.cs" />
+    <Compile Include="Services\Sales Order\SalesOrderModel.cs" />
+    <Compile Include="Services\Sales Order\SalesOrderService.cs" />
+    <Compile Include="Services\Security\ChooseCompanyService.cs" />
+    <Compile Include="Services\Security\LoginService.cs" />
+    <Compile Include="Services\Security\SettingsService.cs" />
+    <Compile Include="Services\UnofficialSales\DataRepositoryUnofficialSales.cs" />
+    <Compile Include="Services\UnofficialSales\IUnofficialSalesModel.cs" />
+    <Compile Include="Services\UnofficialSales\UnofficialSalesModel.cs" />
+    <Compile Include="Services\UnofficialSales\UnofficialSalesService.cs" />
+    <Compile Include="Views\ARInvoice\FrmARInvoice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ARInvoice\FrmARInvoice.Designer.cs">
+      <DependentUpon>FrmARInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ARInvoice\FrmARInvoiceItemList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ARInvoice\FrmARInvoiceItemList.Designer.cs">
+      <DependentUpon>FrmARInvoiceItemList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ARInvoice\frmSI_DrawDocumentWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ARInvoice\frmSI_DrawDocumentWizard.designer.cs">
+      <DependentUpon>frmSI_DrawDocumentWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ARInvoice\IFrmARInvoice.cs" />
+    <Compile Include="Views\Barcode Printing\PrintingPerBP\frmBarcodePerBP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Barcode Printing\PrintingPerBP\frmBarcodePerBP.designer.cs">
+      <DependentUpon>frmBarcodePerBP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Barcode Printing\PrintingPerDocument\frmBarcodeAll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Barcode Printing\PrintingPerDocument\frmBarcodeAll.designer.cs">
+      <DependentUpon>frmBarcodeAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Barcode Printing\PrintingPerDocument\frmItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Barcode Printing\PrintingPerDocument\frmItems.designer.cs">
+      <DependentUpon>frmItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\frmColumnSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\frmColumnSearch.Designer.cs">
+      <DependentUpon>frmColumnSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\frmDT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\frmDT.Designer.cs">
+      <DependentUpon>frmDT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\FrmDt_Modal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\FrmDt_Modal.Designer.cs">
+      <DependentUpon>FrmDt_Modal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\frmDT_UDF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\frmDT_UDF.Designer.cs">
+      <DependentUpon>frmDT_UDF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\frmShowMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\frmShowMessage.Designer.cs">
+      <DependentUpon>frmShowMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\Generic\UcGeneric.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\Generic\UcGeneric.Designer.cs">
+      <DependentUpon>UcGeneric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\MainMenu\UcMainMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\MainMenu\UcMainMenu.Designer.cs">
+      <DependentUpon>UcMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\MainMenu\UcTemplateCreation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\MainMenu\UcTemplateCreation.Designer.cs">
+      <DependentUpon>UcTemplateCreation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_carton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_carton.Designer.cs">
+      <DependentUpon>UcUDF_carton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_delivery.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_delivery.Designer.cs">
+      <DependentUpon>UcUDF_delivery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_creditmemo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_creditmemo.Designer.cs">
+      <DependentUpon>UcUDF_creditmemo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_invoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_invoice.Designer.cs">
+      <DependentUpon>UcUDF_invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_itr.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_itr.Designer.cs">
+      <DependentUpon>UcUDF_itr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_salesorder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Views\Data Transfer\UC\UDF\UcUDF_salesorder.Designer.cs">
+      <DependentUpon>UcUDF_salesorder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\Allocation Wizard\frmAllocationWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\Allocation Wizard\frmAllocationWizard.Designer.cs">
+      <DependentUpon>frmAllocationWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\Allocation Wizard\frmAW_DefineNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\Allocation Wizard\frmAW_DefineNew.Designer.cs">
+      <DependentUpon>frmAW_DefineNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\Allocation Wizard\frmAW_Filter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\Allocation Wizard\frmAW_Filter.Designer.cs">
+      <DependentUpon>frmAW_Filter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\Allocation Wizard\frmAW_Find.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\Allocation Wizard\frmAW_Find.Designer.cs">
+      <DependentUpon>frmAW_Find.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\OutgoingPackingList\frmOutGoingPackingList_ItemList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\OutgoingPackingList\frmOutGoingPackingList_ItemList.Designer.cs">
+      <DependentUpon>frmOutGoingPackingList_ItemList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\OutgoingPackingList\frmOutGoingPacklist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\OutgoingPackingList\frmOutGoingPacklist.Designer.cs">
+      <DependentUpon>frmOutGoingPacklist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\PackingListConcession\frmPackingListConcessionaire_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\PackingListConcession\frmPackingListConcessionaire_Search.designer.cs">
+      <DependentUpon>frmPackingListConcessionaire_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\PackingListConcession\PackingList_Conssionaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\PackingListConcession\PackingList_Conssionaire.designer.cs">
+      <DependentUpon>PackingList_Conssionaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\Inventory Transfer Request\FrmTransferRequestItemList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\Inventory Transfer Request\FrmTransferRequestItemList.Designer.cs">
+      <DependentUpon>FrmTransferRequestItemList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\Inventory Transfer Request\IFrmInventoryTransferRequest.cs" />
+    <Compile Include="Views\Inventory\Inventory Transfer Request\InventoryTransferRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\Inventory Transfer Request\InventoryTransferRequest.Designer.cs">
+      <DependentUpon>InventoryTransferRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Carton List\FrmCartonList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Carton List\FrmCartonList.Designer.cs">
+      <DependentUpon>FrmCartonList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Carton List\ICartonList.cs" />
+    <Compile Include="Views\Carton Management\FrmCartonManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Carton Management\FrmCartonManagement.Designer.cs">
+      <DependentUpon>FrmCartonManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Carton Management\ICartonManagement.cs" />
+    <Compile Include="Views\GRPO\FrmGoodsReceiptPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\GRPO\FrmGoodsReceiptPO.Designer.cs">
+      <DependentUpon>FrmGoodsReceiptPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\GRPO\IFrmGoodsReceiptPO.cs" />
+    <Compile Include="Views\Inventory\Inventory Transfer\frmIT_DrawDocumentWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\Inventory Transfer\frmIT_DrawDocumentWizard.Designer.cs">
+      <DependentUpon>frmIT_DrawDocumentWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\Inventory Transfer\FrmTransferItemList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\Inventory Transfer\FrmTransferItemList.Designer.cs">
+      <DependentUpon>FrmTransferItemList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\Inventory Transfer\IInventoryTransfer.cs" />
+    <Compile Include="Views\Inventory\Inventory Transfer\InventoryTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\Inventory Transfer\InventoryTransfer.Designer.cs">
+      <DependentUpon>InventoryTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\InventoryCounting\InventoryCounting\frmInventoryCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\InventoryCounting\InventoryCounting\frmInventoryCount.Designer.cs">
+      <DependentUpon>frmInventoryCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\InventoryCounting\InventoryCounting\frmSearchInventoryCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\InventoryCounting\InventoryCounting\frmSearchInventoryCount.Designer.cs">
+      <DependentUpon>frmSearchInventoryCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\InventoryCounting\InventoryPosting\InventoryCount_Posting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\InventoryCounting\InventoryPosting\InventoryCount_Posting.Designer.cs">
+      <DependentUpon>InventoryCount_Posting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\ItemMasterData\frmITM_ChooseFromList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\ItemMasterData\frmITM_ChooseFromList.Designer.cs">
+      <DependentUpon>frmITM_ChooseFromList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\ItemMasterData\frmITM_DefineNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\ItemMasterData\frmITM_DefineNew.Designer.cs">
+      <DependentUpon>frmITM_DefineNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\ItemMasterData\frmITM_DefineNewCustom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\ItemMasterData\frmITM_DefineNewCustom.Designer.cs">
+      <DependentUpon>frmITM_DefineNewCustom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\ItemMasterData\frmITM_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\ItemMasterData\frmITM_Search.Designer.cs">
+      <DependentUpon>frmITM_Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\Inventory_generics.cs" />
+    <Compile Include="Views\Inventory\Inventory_Style.cs" />
+    <Compile Include="Views\Inventory\ItemMasterData\frmItemMasterData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\ItemMasterData\frmItemMasterData.Designer.cs">
+      <DependentUpon>frmItemMasterData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\frmPackingList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\frmPackingList.Designer.cs">
+      <DependentUpon>frmPackingList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\frmpackinglist_udf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\frmpackinglist_udf.Designer.cs">
+      <DependentUpon>frmpackinglist_udf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\frmSearchPackingList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\frmSearchPackingList.Designer.cs">
+      <DependentUpon>frmSearchPackingList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\frmViewReportModal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\CartonLabels\frmViewReportModal.Designer.cs">
+      <DependentUpon>frmViewReportModal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\LockItems\ErrorLogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\LockItems\ErrorLogs.Designer.cs">
+      <DependentUpon>ErrorLogs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\LockItems\frmFreezeItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\LockItems\frmFreezeItems.Designer.cs">
+      <DependentUpon>frmFreezeItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\LockItems\frmItemSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\LockItems\frmItemSelection.Designer.cs">
+      <DependentUpon>frmItemSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Inventory\MultiplePrint\frmMultiplePrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Inventory\MultiplePrint\frmMultiplePrint.Designer.cs">
+      <DependentUpon>frmMultiplePrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ITRClosing\ITRClosing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\ITRClosing\ITRClosing.Designer.cs">
+      <DependentUpon>ITRClosing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Loading Screen\FrmLoadingScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Loading Screen\FrmLoadingScreen.Designer.cs">
+      <DependentUpon>FrmLoadingScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Main\IMainForm.cs" />
+    <Compile Include="Views\Main\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Main\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\Purchasing\FrmPurchaseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Purchasing\FrmPurchaseOrder.Designer.cs">
+      <DependentUpon>FrmPurchaseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Purchasing\FrmPurchasingItemList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Purchasing\FrmPurchasingItemList.Designer.cs">
+      <DependentUpon>FrmPurchasingItemList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Purchasing\IPurchaseOrder.cs" />
+    <Compile Include="Views\Sales\SalesOrder\FrmSalesOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Sales\SalesOrder\FrmSalesOrder.Designer.cs">
+      <DependentUpon>FrmSalesOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Sales\SalesOrder\FrmSalesOrderItemList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Sales\SalesOrder\FrmSalesOrderItemList.Designer.cs">
+      <DependentUpon>FrmSalesOrderItemList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Sales\SalesOrder\IFrmSalesOrder.cs" />
+    <Compile Include="Views\Sales\UnofficialSales\FrmUnofficialSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Sales\UnofficialSales\FrmUnofficialSales.Designer.cs">
+      <DependentUpon>FrmUnofficialSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Sales\UnofficialSales\FrmUnofficialSalesItemList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Sales\UnofficialSales\FrmUnofficialSalesItemList.Designer.cs">
+      <DependentUpon>FrmUnofficialSalesItemList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Sales\UnofficialSales\IFrmUnofficialSales.cs" />
+    <Compile Include="Views\Security\ChooseCompanyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Security\ChooseCompanyForm.Designer.cs">
+      <DependentUpon>ChooseCompanyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Security\IChooseCompany.cs" />
+    <Compile Include="Views\Security\ILoginForm.cs" />
+    <Compile Include="Views\Security\ISettingsForm.cs" />
+    <Compile Include="Views\Security\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Security\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Security\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Security\SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmDuplicateItemSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmDuplicateItemSelection.Designer.cs">
+      <DependentUpon>frmDuplicateItemSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\IPreviewItemlist.cs" />
+    <EmbeddedResource Include="Views\ARInvoice\FrmARInvoice.resx">
+      <DependentUpon>FrmARInvoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ARInvoice\FrmARInvoiceItemList.resx">
+      <DependentUpon>FrmARInvoiceItemList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ARInvoice\frmSI_DrawDocumentWizard.resx">
+      <DependentUpon>frmSI_DrawDocumentWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Barcode Printing\PrintingPerBP\frmBarcodePerBP.resx">
+      <DependentUpon>frmBarcodePerBP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Barcode Printing\PrintingPerDocument\frmBarcodeAll.resx">
+      <DependentUpon>frmBarcodeAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Barcode Printing\PrintingPerDocument\frmItems.resx">
+      <DependentUpon>frmItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\frmColumnSearch.resx">
+      <DependentUpon>frmColumnSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\frmDT.resx">
+      <DependentUpon>frmDT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\FrmDt_Modal.resx">
+      <DependentUpon>FrmDt_Modal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\frmDT_UDF.resx">
+      <DependentUpon>frmDT_UDF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\frmShowMessage.resx">
+      <DependentUpon>frmShowMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\UC\Generic\UcGeneric.resx">
+      <DependentUpon>UcGeneric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\UC\MainMenu\UcMainMenu.resx">
+      <DependentUpon>UcMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\UC\MainMenu\UcTemplateCreation.resx">
+      <DependentUpon>UcTemplateCreation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\UC\UDF\UcUDF_carton.resx">
+      <DependentUpon>UcUDF_carton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\UC\UDF\UcUDF_delivery.resx">
+      <DependentUpon>UcUDF_delivery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\UC\UDF\UcUDF_creditmemo.resx">
+      <DependentUpon>UcUDF_creditmemo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\UC\UDF\UcUDF_invoice.resx">
+      <DependentUpon>UcUDF_invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\UC\UDF\UcUDF_itr.resx">
+      <DependentUpon>UcUDF_itr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Data Transfer\UC\UDF\UcUDF_salesorder.resx">
+      <DependentUpon>UcUDF_salesorder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\Allocation Wizard\frmAllocationWizard.resx">
+      <DependentUpon>frmAllocationWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\Allocation Wizard\frmAW_DefineNew.resx">
+      <DependentUpon>frmAW_DefineNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\Allocation Wizard\frmAW_Filter.resx">
+      <DependentUpon>frmAW_Filter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\Allocation Wizard\frmAW_Find.resx">
+      <DependentUpon>frmAW_Find.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\CartonLabels\OutgoingPackingList\frmOutGoingPackingList_ItemList.resx">
+      <DependentUpon>frmOutGoingPackingList_ItemList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\CartonLabels\OutgoingPackingList\frmOutGoingPacklist.resx">
+      <DependentUpon>frmOutGoingPacklist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\CartonLabels\PackingListConcession\frmPackingListConcessionaire_Search.resx">
+      <DependentUpon>frmPackingListConcessionaire_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\CartonLabels\PackingListConcession\PackingList_Conssionaire.resx">
+      <DependentUpon>PackingList_Conssionaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\Inventory Transfer Request\FrmTransferRequestItemList.resx">
+      <DependentUpon>FrmTransferRequestItemList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\Inventory Transfer Request\InventoryTransferRequest.resx">
+      <DependentUpon>InventoryTransferRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Views\Tools\frmblank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmblank.Designer.cs">
+      <DependentUpon>frmblank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmCrystalReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmCrystalReports.Designer.cs">
+      <DependentUpon>frmCrystalReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmCrystalReports2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmCrystalReports2.Designer.cs">
+      <DependentUpon>frmCrystalReports2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmDefineNew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmDefineNew.Designer.cs">
+      <DependentUpon>frmDefineNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\FrmPreviewItenlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\FrmPreviewItenlist.Designer.cs">
+      <DependentUpon>FrmPreviewItenlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmQueryGenerator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmQueryGenerator.Designer.cs">
+      <DependentUpon>frmQueryGenerator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmReportList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmReportList.Designer.cs">
+      <DependentUpon>frmReportList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmSearch.Designer.cs">
+      <DependentUpon>frmSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmSearch2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmSearch2.Designer.cs">
+      <DependentUpon>frmSearch2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmShortcut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmShortcut.Designer.cs">
+      <DependentUpon>frmShortcut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\frmShortcutKeys.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frmShortcutKeys.Designer.cs">
+      <DependentUpon>frmShortcutKeys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Tools\IfrmSearch2.cs" />
+    <Compile Include="Services\UDF_Form.cs" />
+    <Compile Include="Views\Tools\frm_UDF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Tools\frm_UDF.Designer.cs">
+      <DependentUpon>frm_UDF.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Views\Carton List\FrmCartonList.resx">
+      <DependentUpon>FrmCartonList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Carton Management\FrmCartonManagement.resx">
+      <DependentUpon>FrmCartonManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\GRPO\FrmGoodsReceiptPO.resx">
+      <DependentUpon>FrmGoodsReceiptPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\Inventory Transfer\frmIT_DrawDocumentWizard.resx">
+      <DependentUpon>frmIT_DrawDocumentWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\Inventory Transfer\FrmTransferItemList.resx">
+      <DependentUpon>FrmTransferItemList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\Inventory Transfer\InventoryTransfer.resx">
+      <DependentUpon>InventoryTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\InventoryCounting\InventoryCounting\frmInventoryCount.resx">
+      <DependentUpon>frmInventoryCount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\InventoryCounting\InventoryCounting\frmSearchInventoryCount.resx">
+      <DependentUpon>frmSearchInventoryCount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\InventoryCounting\InventoryPosting\InventoryCount_Posting.resx">
+      <DependentUpon>InventoryCount_Posting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\ItemMasterData\frmItemMasterData.resx">
+      <DependentUpon>frmItemMasterData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\ItemMasterData\frmITM_DefineNewCustom.resx">
+      <DependentUpon>frmITM_DefineNewCustom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\ItemMasterData\frmITM_Search.resx">
+      <DependentUpon>frmITM_Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\ItemMasterData\frmITM_ChooseFromList.resx">
+      <DependentUpon>frmITM_ChooseFromList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\ItemMasterData\frmITM_DefineNew.resx">
+      <DependentUpon>frmITM_DefineNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\CartonLabels\frmPackingList.resx">
+      <DependentUpon>frmPackingList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\CartonLabels\frmpackinglist_udf.resx">
+      <DependentUpon>frmpackinglist_udf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\CartonLabels\frmSearchPackingList.resx">
+      <DependentUpon>frmSearchPackingList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\CartonLabels\frmViewReportModal.resx">
+      <DependentUpon>frmViewReportModal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\LockItems\ErrorLogs.resx">
+      <DependentUpon>ErrorLogs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\LockItems\frmFreezeItems.resx">
+      <DependentUpon>frmFreezeItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\LockItems\frmItemSelection.resx">
+      <DependentUpon>frmItemSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Inventory\MultiplePrint\frmMultiplePrint.resx">
+      <DependentUpon>frmMultiplePrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\ITRClosing\ITRClosing.resx">
+      <DependentUpon>ITRClosing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Loading Screen\FrmLoadingScreen.resx">
+      <DependentUpon>FrmLoadingScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Main\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Purchasing\FrmPurchaseOrder.resx">
+      <DependentUpon>FrmPurchaseOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Purchasing\FrmPurchasingItemList.resx">
+      <DependentUpon>FrmPurchasingItemList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Sales\SalesOrder\FrmSalesOrder.resx">
+      <DependentUpon>FrmSalesOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Sales\SalesOrder\FrmSalesOrderItemList.resx">
+      <DependentUpon>FrmSalesOrderItemList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Sales\UnofficialSales\FrmUnofficialSales.resx">
+      <DependentUpon>FrmUnofficialSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Sales\UnofficialSales\FrmUnofficialSalesItemList.resx">
+      <DependentUpon>FrmUnofficialSalesItemList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Security\ChooseCompanyForm.resx">
+      <DependentUpon>ChooseCompanyForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Security\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Security\SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmDuplicateItemSelection.resx">
+      <DependentUpon>frmDuplicateItemSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\FrmPreviewItenlist.resx">
+      <DependentUpon>FrmPreviewItenlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\FrmSearch.resx">
+      <DependentUpon>FrmSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmblank.resx">
+      <DependentUpon>frmblank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmCrystalReports.resx">
+      <DependentUpon>frmCrystalReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmCrystalReports2.resx">
+      <DependentUpon>frmCrystalReports2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmDefineNew.resx">
+      <DependentUpon>frmDefineNew.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmQueryGenerator.resx">
+      <DependentUpon>frmQueryGenerator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmReportList.resx">
+      <DependentUpon>frmReportList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmSearch2.resx">
+      <DependentUpon>frmSearch2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmShortcut.resx">
+      <DependentUpon>frmShortcut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frmShortcutKeys.resx">
+      <DependentUpon>frmShortcutKeys.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Tools\frm_UDF.resx">
+      <DependentUpon>frm_UDF.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CustomerLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EasySAP.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EasySAPLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoginBanner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SAPLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\Tools\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\image_2020_10_10T01_16_55_328Z1.png" />
+    <None Include="Resources\image_2020_10_10T01_16_55_328Z.png" />
+    <None Include="Resources\WB.gif" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\arrows.png" />
+    <None Include="Resources\barcode.png" />
+    <None Include="Resources\bars.png" />
+    <None Include="Resources\bars1.png" />
+    <None Include="Resources\close.png" />
+    <None Include="Resources\close1.png" />
+    <None Include="Resources\CompanyLogo.png" />
+    <None Include="Resources\delete %281%29.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\duplicated.png" />
+    <None Include="Resources\EASY SAP FINAL.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\DirecLogo.png" />
+    <None Include="Resources\BG_NBFI.jpg" />
+    <Content Include="Resources\EsaySAP.ico" />
+    <None Include="Resources\home.png" />
+    <None Include="Resources\interface.png" />
+    <None Include="Resources\ITM_Camera.png" />
+    <None Include="Resources\ITM_ChooseFromLsit.png" />
+    <None Include="Resources\ITM_XCamera.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\lock1.png" />
+    <None Include="Resources\Login_DirecLogo.png" />
+    <None Include="Resources\Login_Logo.jpg" />
+    <None Include="Resources\logout.png" />
+    <None Include="Resources\Maximize.png" />
+    <None Include="Resources\Menu.png" />
+    <None Include="Resources\next.png" />
+    <None Include="Resources\previous.png" />
+    <None Include="Resources\print.png" />
+    <None Include="Resources\print1.png" />
+    <None Include="Resources\SAP LOGO.png" />
+    <None Include="Resources\scanningwoohoo1.gif" />
+    <None Include="Resources\scanningwoohoo.gif" />
+    <None Include="Resources\Search101.png" />
+    <None Include="Resources\Search1011.png" />
+    <None Include="Resources\signs.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DirecLayer\DirecLayer.csproj">
+      <Project>{c26e1c0c-19fe-43c0-9860-64ce4c3607af}</Project>
+      <Name>DirecLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DomainLayer\DomainLayer.csproj">
+      <Project>{bbd93b88-0105-49a0-a13b-2899a7a597f3}</Project>
+      <Name>DomainLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InfrastructureLayer\InfrastructureLayer.csproj">
+      <Project>{08ffc4d6-7c42-438b-8e9f-166a04f84100}</Project>
+      <Name>InfrastructureLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ServiceLayer\ServiceLayer.csproj">
+      <Project>{08c719c8-44bd-4e05-9c48-5a2c545a6824}</Project>
+      <Name>ServiceLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

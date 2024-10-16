@@ -1,0 +1,688 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects Visual Studio\\NBFI_EasySAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08C719C8-44BD-4E05-9C48-5A2C545A6824}|ServiceLayer\\ServiceLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\servicelayer\\services\\servicelayeraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C719C8-44BD-4E05-9C48-5A2C545A6824}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\servicelayeraccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|d:\\projects visual studio\\nbfi_easysap\\presenterlayer\\helper\\itrhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\helper\\itrhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\purchasing\\frmpurchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\purchasing\\frmpurchaseorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\services\\inventory\\inventory transfer request\\itr_servicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\services\\inventory\\inventory transfer request\\itr_servicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\services\\inventory\\inventory transfer\\it_servicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\services\\inventory\\inventory transfer\\it_servicelayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C719C8-44BD-4E05-9C48-5A2C545A6824}|ServiceLayer\\ServiceLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\servicelayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{08C719C8-44BD-4E05-9C48-5A2C545A6824}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C719C8-44BD-4E05-9C48-5A2C545A6824}|ServiceLayer\\ServiceLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\servicelayer\\services\\credentialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C719C8-44BD-4E05-9C48-5A2C545A6824}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\credentialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\inventory\\inventory transfer\\inventorytransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\inventory\\inventory transfer\\inventorytransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\inventory\\inventory transfer\\inventorytransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\inventory\\inventory transfer\\inventorytransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\inventory\\inventory transfer request\\inventorytransferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\inventory\\inventory transfer request\\inventorytransferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\inventory\\inventory transfer request\\inventorytransferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\inventory\\inventory transfer request\\inventorytransferrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\services\\inventory\\inventory transfer\\inventorytransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\services\\inventory\\inventory transfer\\inventorytransferservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\services\\inventory\\inventory transfer request\\inventorytransferrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\services\\inventory\\inventory transfer request\\inventorytransferrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\barcode printing\\printingperdocument\\frmbarcodeall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\barcode printing\\printingperdocument\\frmbarcodeall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\barcode printing\\printingperdocument\\frmbarcodeall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\barcode printing\\printingperdocument\\frmbarcodeall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\arinvoice\\frmarinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\arinvoice\\frmarinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\services\\purchase order\\purchaseordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\services\\purchase order\\purchaseordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\services\\purchase order\\purchaseorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\services\\purchase order\\purchaseorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\arinvoice\\frmarinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\arinvoice\\frmarinvoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\inventory\\inventory transfer request\\frmtransferrequestitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\inventory\\inventory transfer request\\frmtransferrequestitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\security\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\security\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\helper\\saphanahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\helper\\saphanahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\inventory\\inventory transfer\\iinventorytransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\inventory\\inventory transfer\\iinventorytransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LAP-0176\\AppData\\Local\\Temp\\.vsdbgsrc\\4f355ec3e5227817f404e9c7ae2b41151500278c892b089d35812e46e1e9e8a3\\FrmPurchaseOrder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\services\\purchase order\\ipurchaseordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\services\\purchase order\\ipurchaseordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\helper\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\helper\\datarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C719C8-44BD-4E05-9C48-5A2C545A6824}|ServiceLayer\\ServiceLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\servicelayer\\system\\net.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C719C8-44BD-4E05-9C48-5A2C545A6824}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\system\\net.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\inventory\\inventory_generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\inventory\\inventory_generics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26E1C0C-19FE-43C0-9860-64CE4C3607AF}|DirecLayer\\DirecLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\direclayer\\saphanaaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26E1C0C-19FE-43C0-9860-64CE4C3607AF}|DirecLayer\\DirecLayer.csproj|solutionrelative:direclayer\\saphanaaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\helper\\stringqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\helper\\stringqueryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\barcode printing\\printingperbp\\frmbarcodeperbp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\barcode printing\\printingperbp\\frmbarcodeperbp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\inventory\\inventory transfer request\\frmtransferrequestitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\inventory\\inventory transfer request\\frmtransferrequestitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\inventory\\inventory transfer\\frmtransferitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\inventory\\inventory transfer\\frmtransferitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\presenterlayer\\views\\inventory\\inventory transfer\\frmtransferitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{160A597D-949E-4C58-88E6-C32E68C1EFE4}|PresenterLayer\\PresenterLayer.csproj|solutionrelative:presenterlayer\\views\\inventory\\inventory transfer\\frmtransferitemlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD93B88-0105-49A0-A13B-2899A7A597F3}|DomainLayer\\DomainLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\domainlayer\\models\\inventory transfer request\\inventorytransferreqitemsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD93B88-0105-49A0-A13B-2899A7A597F3}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\models\\inventory transfer request\\inventorytransferreqitemsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26E1C0C-19FE-43C0-9860-64CE4C3607AF}|DirecLayer\\DirecLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\direclayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C26E1C0C-19FE-43C0-9860-64CE4C3607AF}|DirecLayer\\DirecLayer.csproj|solutionrelative:direclayer\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26E1C0C-19FE-43C0-9860-64CE4C3607AF}|DirecLayer\\DirecLayer.csproj|D:\\Projects Visual Studio\\NBFI_EasySAP\\direclayer\\zdeclare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26E1C0C-19FE-43C0-9860-64CE4C3607AF}|DirecLayer\\DirecLayer.csproj|solutionrelative:direclayer\\zdeclare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 267,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryTransfer.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer\\InventoryTransfer.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Inventory\\Inventory Transfer\\InventoryTransfer.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer\\InventoryTransfer.cs",
+              "RelativeToolTip": "PresenterLayer\\Views\\Inventory\\Inventory Transfer\\InventoryTransfer.cs",
+              "ViewState": "AQIAAL8BAAAAAAAAAAAAwM4BAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:56:19.689Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InventoryTransferService.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Inventory\\Inventory Transfer\\InventoryTransferService.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Services\\Inventory\\Inventory Transfer\\InventoryTransferService.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Inventory\\Inventory Transfer\\InventoryTransferService.cs",
+              "RelativeToolTip": "PresenterLayer\\Services\\Inventory\\Inventory Transfer\\InventoryTransferService.cs",
+              "ViewState": "AQIAAGIHAAAAAAAAAAAjwH4HAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:13:03.311Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryTransferRequest.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\InventoryTransferRequest.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\InventoryTransferRequest.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\InventoryTransferRequest.cs",
+              "RelativeToolTip": "PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\InventoryTransferRequest.cs",
+              "ViewState": "AQIAAAcCAAAAAAAAAIA2wB8CAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:57:10.556Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InventoryTransferRequestService.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Inventory\\Inventory Transfer Request\\InventoryTransferRequestService.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Services\\Inventory\\Inventory Transfer Request\\InventoryTransferRequestService.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Inventory\\Inventory Transfer Request\\InventoryTransferRequestService.cs",
+              "RelativeToolTip": "PresenterLayer\\Services\\Inventory\\Inventory Transfer Request\\InventoryTransferRequestService.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAnwFkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T09:47:42.744Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmTransferRequestItemList.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\FrmTransferRequestItemList.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\FrmTransferRequestItemList.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\FrmTransferRequestItemList.cs",
+              "RelativeToolTip": "PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\FrmTransferRequestItemList.cs",
+              "ViewState": "AQIAADgFAAAAAAAAAIAwwEsFAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:11:58.285Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmTransferItemList.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer\\FrmTransferItemList.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Inventory\\Inventory Transfer\\FrmTransferItemList.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer\\FrmTransferItemList.cs",
+              "RelativeToolTip": "PresenterLayer\\Views\\Inventory\\Inventory Transfer\\FrmTransferItemList.cs",
+              "ViewState": "AQIAAGQFAAAAAAAAAAArwB4FAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:51:56.51Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{53d10d51-d2d8-3452-ab88-12f687ed0782}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventoryTransfer.cs [Design]",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer\\InventoryTransfer.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Inventory\\Inventory Transfer\\InventoryTransfer.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer\\InventoryTransfer.cs [Design]",
+              "RelativeToolTip": "PresenterLayer\\Views\\Inventory\\Inventory Transfer\\InventoryTransfer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:48:33.529Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmBarcodeAll.cs [Design]",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Barcode Printing\\PrintingPerDocument\\frmBarcodeAll.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Barcode Printing\\PrintingPerDocument\\frmBarcodeAll.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Barcode Printing\\PrintingPerDocument\\frmBarcodeAll.cs [Design]",
+              "RelativeToolTip": "PresenterLayer\\Views\\Barcode Printing\\PrintingPerDocument\\frmBarcodeAll.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:50:37.693Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmARInvoice.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\ARInvoice\\FrmARInvoice.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\ARInvoice\\FrmARInvoice.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\ARInvoice\\FrmARInvoice.cs",
+              "RelativeToolTip": "PresenterLayer\\Views\\ARInvoice\\FrmARInvoice.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAADgv00AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:41:39.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmARInvoice.cs [Design]",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\ARInvoice\\FrmARInvoice.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\ARInvoice\\FrmARInvoice.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\ARInvoice\\FrmARInvoice.cs [Design]",
+              "RelativeToolTip": "PresenterLayer\\Views\\ARInvoice\\FrmARInvoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:41:32.773Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmTransferRequestItemList.cs [Design]",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\FrmTransferRequestItemList.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\FrmTransferRequestItemList.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\FrmTransferRequestItemList.cs [Design]",
+              "RelativeToolTip": "PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\FrmTransferRequestItemList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:21:28.562Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryTransferRequest.cs [Design]",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\InventoryTransferRequest.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\InventoryTransferRequest.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\InventoryTransferRequest.cs [Design]",
+              "RelativeToolTip": "PresenterLayer\\Views\\Inventory\\Inventory Transfer Request\\InventoryTransferRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T07:21:21.855Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmBarcodeAll.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Barcode Printing\\PrintingPerDocument\\frmBarcodeAll.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Barcode Printing\\PrintingPerDocument\\frmBarcodeAll.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Barcode Printing\\PrintingPerDocument\\frmBarcodeAll.cs",
+              "RelativeToolTip": "PresenterLayer\\Views\\Barcode Printing\\PrintingPerDocument\\frmBarcodeAll.cs",
+              "ViewState": "AQIAAM0DAAAAAAAAAAAswPADAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T06:17:18.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PurchaseOrderService.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Purchase Order\\PurchaseOrderService.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Services\\Purchase Order\\PurchaseOrderService.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Purchase Order\\PurchaseOrderService.cs",
+              "RelativeToolTip": "PresenterLayer\\Services\\Purchase Order\\PurchaseOrderService.cs",
+              "ViewState": "AQIAAEIDAAAAAAAAAAAEwFADAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:50:03.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceLayerAccess.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\ServiceLayer\\Services\\ServiceLayerAccess.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\ServiceLayerAccess.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\ServiceLayer\\Services\\ServiceLayerAccess.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\ServiceLayerAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:50:03.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITRHelper.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Helper\\ITRHelper.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Helper\\ITRHelper.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Helper\\ITRHelper.cs",
+              "RelativeToolTip": "PresenterLayer\\Helper\\ITRHelper.cs",
+              "ViewState": "AQIAAFQBAAAAAAAAAAAiwGMBAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:50:03.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CredentialService.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\ServiceLayer\\Services\\CredentialService.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Services\\CredentialService.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\ServiceLayer\\Services\\CredentialService.cs",
+              "RelativeToolTip": "ServiceLayer\\Services\\CredentialService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:50:03.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SAPHanaHelper.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Helper\\SAPHanaHelper.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Helper\\SAPHanaHelper.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Helper\\SAPHanaHelper.cs",
+              "RelativeToolTip": "PresenterLayer\\Helper\\SAPHanaHelper.cs",
+              "ViewState": "AQIAANEBAAAAAAAAAAAAANEBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:50:03.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmPurchaseOrder.cs",
+              "DocumentMoniker": "C:\\Users\\LAP-0176\\AppData\\Local\\Temp\\.vsdbgsrc\\4f355ec3e5227817f404e9c7ae2b41151500278c892b089d35812e46e1e9e8a3\\FrmPurchaseOrder.cs",
+              "ToolTip": "C:\\Users\\LAP-0176\\AppData\\Local\\Temp\\.vsdbgsrc\\4f355ec3e5227817f404e9c7ae2b41151500278c892b089d35812e46e1e9e8a3\\FrmPurchaseOrder.cs [Read Only]",
+              "ViewState": "AQIAAIUDAAAAAAAAAAAlwJwDAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:10:23.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPurchaseOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Purchasing\\FrmPurchaseOrder.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Purchasing\\FrmPurchaseOrder.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Purchasing\\FrmPurchaseOrder.cs [Design]",
+              "RelativeToolTip": "PresenterLayer\\Views\\Purchasing\\FrmPurchaseOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T05:22:35.692Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Net.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\ServiceLayer\\System\\Net.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\System\\Net.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\ServiceLayer\\System\\Net.cs",
+              "RelativeToolTip": "ServiceLayer\\System\\Net.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:16:45.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\ServiceLayer\\app.config",
+              "RelativeDocumentMoniker": "ServiceLayer\\app.config",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\ServiceLayer\\app.config",
+              "RelativeToolTip": "ServiceLayer\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-20T07:16:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Program.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Program.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Program.cs",
+              "RelativeToolTip": "PresenterLayer\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAlwBUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:09:07.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\packages.config",
+              "RelativeDocumentMoniker": "PresenterLayer\\packages.config",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\packages.config",
+              "RelativeToolTip": "PresenterLayer\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-20T07:09:06.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Inventory_generics.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory_generics.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Inventory\\Inventory_generics.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory_generics.cs",
+              "RelativeToolTip": "PresenterLayer\\Views\\Inventory\\Inventory_generics.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:22:54.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPurchaseOrderModel.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Purchase Order\\IPurchaseOrderModel.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Services\\Purchase Order\\IPurchaseOrderModel.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Purchase Order\\IPurchaseOrderModel.cs",
+              "RelativeToolTip": "PresenterLayer\\Services\\Purchase Order\\IPurchaseOrderModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T06:00:07.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DataRepository.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Helper\\DataRepository.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Helper\\DataRepository.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Helper\\DataRepository.cs",
+              "RelativeToolTip": "PresenterLayer\\Helper\\DataRepository.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAcwOYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:51:50.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StringQueryRepository.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Helper\\StringQueryRepository.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Helper\\StringQueryRepository.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Helper\\StringQueryRepository.cs",
+              "RelativeToolTip": "PresenterLayer\\Helper\\StringQueryRepository.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAjwHUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T07:20:37.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmBarcodePerBP.cs [Design]",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Barcode Printing\\PrintingPerBP\\frmBarcodePerBP.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Barcode Printing\\PrintingPerBP\\frmBarcodePerBP.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Barcode Printing\\PrintingPerBP\\frmBarcodePerBP.cs [Design]",
+              "RelativeToolTip": "PresenterLayer\\Views\\Barcode Printing\\PrintingPerBP\\frmBarcodePerBP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:20:40.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Security\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Security\\LoginForm.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Security\\LoginForm.cs",
+              "RelativeToolTip": "PresenterLayer\\Views\\Security\\LoginForm.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAjwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:01:12.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\App.config",
+              "RelativeDocumentMoniker": "PresenterLayer\\App.config",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\App.config",
+              "RelativeToolTip": "PresenterLayer\\App.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-13T09:30:41.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITR_ServiceLayer.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Inventory\\Inventory Transfer Request\\ITR_ServiceLayer.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Services\\Inventory\\Inventory Transfer Request\\ITR_ServiceLayer.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Inventory\\Inventory Transfer Request\\ITR_ServiceLayer.cs",
+              "RelativeToolTip": "PresenterLayer\\Services\\Inventory\\Inventory Transfer Request\\ITR_ServiceLayer.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAD4v80AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:59:27.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FrmTransferItemList.cs [Design]",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer\\FrmTransferItemList.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Inventory\\Inventory Transfer\\FrmTransferItemList.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer\\FrmTransferItemList.cs [Design]",
+              "RelativeToolTip": "PresenterLayer\\Views\\Inventory\\Inventory Transfer\\FrmTransferItemList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:51:51.153Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IT_ServiceLayer.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Inventory\\Inventory Transfer\\IT_ServiceLayer.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Services\\Inventory\\Inventory Transfer\\IT_ServiceLayer.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Inventory\\Inventory Transfer\\IT_ServiceLayer.cs",
+              "RelativeToolTip": "PresenterLayer\\Services\\Inventory\\Inventory Transfer\\IT_ServiceLayer.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAADwv7oAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T00:49:20.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PurchaseOrderModel.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Purchase Order\\PurchaseOrderModel.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Services\\Purchase Order\\PurchaseOrderModel.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Services\\Purchase Order\\PurchaseOrderModel.cs",
+              "RelativeToolTip": "PresenterLayer\\Services\\Purchase Order\\PurchaseOrderModel.cs",
+              "ViewState": "AQIAAOwAAAAAAAAAAAAEwPoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:27:59.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InventoryTransferReqItemsModel.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\DomainLayer\\Models\\Inventory Transfer Request\\InventoryTransferReqItemsModel.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Models\\Inventory Transfer Request\\InventoryTransferReqItemsModel.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\DomainLayer\\Models\\Inventory Transfer Request\\InventoryTransferReqItemsModel.cs",
+              "RelativeToolTip": "DomainLayer\\Models\\Inventory Transfer Request\\InventoryTransferReqItemsModel.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAywA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:21:00.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SAPHanaAccess.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\DirecLayer\\SAPHanaAccess.cs",
+              "RelativeDocumentMoniker": "DirecLayer\\SAPHanaAccess.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\DirecLayer\\SAPHanaAccess.cs",
+              "RelativeToolTip": "DirecLayer\\SAPHanaAccess.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAiwIoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T02:38:38.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IInventoryTransfer.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer\\IInventoryTransfer.cs",
+              "RelativeDocumentMoniker": "PresenterLayer\\Views\\Inventory\\Inventory Transfer\\IInventoryTransfer.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\PresenterLayer\\Views\\Inventory\\Inventory Transfer\\IInventoryTransfer.cs",
+              "RelativeToolTip": "PresenterLayer\\Views\\Inventory\\Inventory Transfer\\IInventoryTransfer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T08:17:38.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "zDeclare.cs",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\DirecLayer\\zDeclare.cs",
+              "RelativeDocumentMoniker": "DirecLayer\\zDeclare.cs",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\DirecLayer\\zDeclare.cs",
+              "RelativeToolTip": "DirecLayer\\zDeclare.cs",
+              "ViewState": "AQIAAIoBAAAAAAAAAIAwwKQBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:51:19.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\Projects Visual Studio\\NBFI_EasySAP\\DirecLayer\\packages.config",
+              "RelativeDocumentMoniker": "DirecLayer\\packages.config",
+              "ToolTip": "D:\\Projects Visual Studio\\NBFI_EasySAP\\DirecLayer\\packages.config",
+              "RelativeToolTip": "DirecLayer\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-09T01:49:01.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
