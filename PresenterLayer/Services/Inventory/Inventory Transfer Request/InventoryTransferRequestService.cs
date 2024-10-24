@@ -138,7 +138,11 @@ namespace PresenterLayer.Services.Inventory
                     InventoryTransferReqHeaderModel.oWhsCode = _frmITR.FrmWhsCode;
                     InventoryTransferReqHeaderModel.oToWhsCode = _frmITR.ToWhsCode;
                     InventoryTransferReqHeaderModel.oTransferType = _frmITR.TransferType;
-                    if (_frmITR.FrmWhsCode != "")
+					InventoryTransferReqHeaderModel.oSeries = _frmITR.oSeries;
+					InventoryTransferReqHeaderModel.CardCode = _frmITR.BpCode;
+
+
+					if (_frmITR.FrmWhsCode != "")
                     {
                         FrmTransferRequestItemList form = new FrmTransferRequestItemList()
                         {

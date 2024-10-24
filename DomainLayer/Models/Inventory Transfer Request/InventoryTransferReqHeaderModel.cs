@@ -14,8 +14,11 @@ namespace DomainLayer.Models.Inventory_Transfer_Request
         public static string oBPCode = "";
         public static string oTransferType;
         public static string oArea;
+        public static string oSeries;
+		public static string CardCode;
 
-        public static List<xDocHeader> _DocHeader = new List<xDocHeader>();
+
+		public static List<xDocHeader> _DocHeader = new List<xDocHeader>();
         public class xDocHeader
         {
             public int Linenum { get; set; }

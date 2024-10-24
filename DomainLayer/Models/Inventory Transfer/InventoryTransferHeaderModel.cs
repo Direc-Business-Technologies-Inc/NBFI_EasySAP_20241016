@@ -19,9 +19,10 @@ namespace DomainLayer.Models
         public static string oOrderEntry = "";
         public static string oBPCode = "";
         public static string oArea;
+		public static string oSeries;
+		public static string CardCode;
 
-
-        public static List<xDocHeader> _DocHeader = new List<xDocHeader>();
+		public static List<xDocHeader> _DocHeader = new List<xDocHeader>();
         public static List<DDWdocentryData> DDWdocentry { get; set; } = new List<DDWdocentryData>();
 
         public class xDocHeader

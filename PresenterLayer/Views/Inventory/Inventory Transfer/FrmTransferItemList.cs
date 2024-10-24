@@ -1320,27 +1320,31 @@ namespace PresenterLayer.Views.Inventory.Inventory_Transfer
             bool result = false;
             try
             {
-                var bpcode = InventoryTransferHeaderModel.oBPCode;
-              
-                if (!String.IsNullOrEmpty(bpcode.ToString()))
+                var bpcode = InventoryTransferHeaderModel.CardCode;
+                var series = InventoryTransferHeaderModel.oSeries;
+
+				if (!String.IsNullOrEmpty(bpcode.ToString()) || series == "109")
                 {
                     var Chain = "";
                     var ChainDesc = "";
-                    DataTable dtChains;
-                    var queryChain = "Select" +
-                            " T0.GroupCode" +
-                           ",T1.GroupName" +
-                            " FROM OCRD T0 INNER JOIN OCRG T1 ON T0.GroupCode = T1.GroupCode" +
-                            " where CardCode ='" + bpcode + "'";
-
-                    dtChains = sapHanaAccess.Get(queryChain);
-
-                    if (dtChains.Rows.Count > 0)
+                    if (!String.IsNullOrEmpty(bpcode.ToString()))
                     {
-                        Chain = dtChains.Rows[0]["GroupCode"].ToString();
-                        ChainDesc = dtChains.Rows[0]["GroupName"].ToString();
-                    }
+                        DataTable dtChains;
+                        var queryChain = "Select" +
+                                " T0.GroupCode" +
+                               ",T1.GroupName" +
+                                " FROM OCRD T0 INNER JOIN OCRG T1 ON T0.GroupCode = T1.GroupCode" +
+                                " where CardCode ='" + bpcode + "'";
 
+                        dtChains = sapHanaAccess.Get(queryChain);
+
+                        if (dtChains.Rows.Count > 0)
+                        {
+                            Chain = dtChains.Rows[0]["GroupCode"].ToString();
+                            ChainDesc = dtChains.Rows[0]["GroupName"].ToString();
+                        }
+
+                    }
                     foreach (DataGridViewRow row in gvSelectedItem.Rows)
                     {
                         if (InventoryTransferItemsModel.ITitems.Exists(a => a.ItemCode == row.Cells[1].Value.ToString()))

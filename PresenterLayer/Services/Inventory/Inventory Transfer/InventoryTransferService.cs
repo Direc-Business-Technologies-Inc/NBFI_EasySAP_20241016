@@ -927,11 +927,12 @@ namespace PresenterLayer.Services.Inventory.Inventory_Transfer
         private void SearchItem(object sender, EventArgs e)
         {
 
-
             InventoryTransferHeaderModel.oWhsCode = _frmIT.TxtFWhsCode.Text;
             InventoryTransferHeaderModel.oToWhsCode = _frmIT.TxtTWhsCode.Text;
-            //InventoryTransferHeaderModel.oTransferType = _frmIT.TransferType;
-            if (_frmIT.TxtFWhsCode.Text != "")
+			InventoryTransferHeaderModel.oSeries = _frmIT.OSeries;
+			InventoryTransferHeaderModel.CardCode = _frmIT.TxtBpCode.Text;
+			//InventoryTransferHeaderModel.oTransferType = _frmIT.TransferType;
+			if (_frmIT.TxtFWhsCode.Text != "")
             {
                 FrmTransferItemList form = new FrmTransferItemList()
                 {

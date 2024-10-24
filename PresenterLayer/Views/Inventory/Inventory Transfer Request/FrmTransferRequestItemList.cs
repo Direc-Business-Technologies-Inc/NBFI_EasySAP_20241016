@@ -1354,27 +1354,32 @@ namespace PresenterLayer.Views.Inventory.Inventory_Transfer_Request
             bool result = false;
             try
             {
-                var bpcode = InventoryTransferReqHeaderModel.oBPCode;
-
-                if (!String.IsNullOrEmpty(bpcode.ToString()))
+                var Series = InventoryTransferReqHeaderModel.oSeries;
+                var bpcode = InventoryTransferReqHeaderModel.CardCode;
+              
+				if (!String.IsNullOrEmpty(bpcode.ToString()) || Series == "107")
                 {
                     var _Chain = "";
                     var _ChainDesc = "";
-                    DataTable dtChains;
-                    var queryChain = "Select" +
-                            " T0.GroupCode" +
-                           ",T1.GroupName" +
-                            " FROM OCRD T0 INNER JOIN OCRG T1 ON T0.GroupCode = T1.GroupCode" +
-                            " where CardCode ='" + bpcode + "'";
 
-                    dtChains = sapHanaAccess.Get(queryChain);
-
-                    if (dtChains.Rows.Count > 0)
+                    if(!String.IsNullOrEmpty(bpcode.ToString()))
                     {
-                        _Chain = dtChains.Rows[0]["GroupCode"].ToString();
-                        _ChainDesc = dtChains.Rows[0]["GroupName"].ToString();
-                    }
+						DataTable dtChains;
+						var queryChain = "Select" +
+								" T0.GroupCode" +
+							   ",T1.GroupName" +
+								" FROM OCRD T0 INNER JOIN OCRG T1 ON T0.GroupCode = T1.GroupCode" +
+								" where CardCode ='" + bpcode + "'";
 
+						dtChains = sapHanaAccess.Get(queryChain);
+
+						if (dtChains.Rows.Count > 0)
+						{
+							_Chain = dtChains.Rows[0]["GroupCode"].ToString();
+							_ChainDesc = dtChains.Rows[0]["GroupName"].ToString();
+						}
+					}
+                   
                     foreach (DataGridViewRow row in gvSelectedItem.Rows)
                     {
                         if ((row.Cells["Quantity"].Value != null && row.Cells["Quantity"].Value.ToString() != "0"))

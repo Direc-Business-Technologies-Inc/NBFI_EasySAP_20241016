@@ -33,7 +33,7 @@ namespace ServiceLayer.Services
 
                 if (ServiceLayer == null)
                 {
-                    //zServiceLayer = new XMLHTTP60();
+                    //ServiceLayer = new ServerXMLHTTP60();
                     ServiceLayer = new XMLHTTP60();
                 }
             }
@@ -61,7 +61,7 @@ namespace ServiceLayer.Services
                 var url = ServiceURL_Update(sboCred.ServiceLayer, sboCred.SLTag);
 
                 ServiceLayer.open("POST", $@"{url}Login");
-               // ServiceLayer.setOption(SERVERXMLHTTP_OPTION.SXH_OPTION_IGNORE_SERVER_SSL_CERT_ERROR_FLAGS, 13056); //09212024 - andric & Joses/ Commented Error (Method Not Found get_ServiceLayer)
+                //ServiceLayer.setOption(SERVERXMLHTTP_OPTION.SXH_OPTION_IGNORE_SERVER_SSL_CERT_ERROR_FLAGS, 13056); //09212024 - andric & Joses/ Commented Error (Method Not Found get_ServiceLayer)
                 var json = new JavaScriptSerializer().Serialize(model).ToString();
 
                 if (json.Length > 2)
