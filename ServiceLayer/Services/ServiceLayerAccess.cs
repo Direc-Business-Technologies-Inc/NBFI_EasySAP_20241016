@@ -14,7 +14,6 @@ namespace ServiceLayer.Services
 {
     public class ServiceLayerAccess
     {
-
         public static XMLHTTP60 ServiceLayer { get; set; }
         //public static ServerXMLHTTP60 ServiceLayer { get; set; } //09212024 - andric & Joses/ Commented Error (Method Not Found get_ServiceLayer)
         public string ServiceURL_Update(string sUrl, string sTag)

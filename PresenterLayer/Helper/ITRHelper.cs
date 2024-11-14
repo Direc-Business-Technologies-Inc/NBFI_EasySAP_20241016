@@ -359,19 +359,17 @@ namespace PresenterLayer.Helper
 
                                         string sFileName = sBarType + "_" + oItemCode + ".jpg";
 
-                                        //string jsFileName = sBarType + "_" + oItemCode + ".txt"; // Use .txt extension for the text file
+                                        //string jsFileName = sBarType + "_" + oItemCode + ".txt"; // unc // Use .txt extension for the text file
 
                                         //// Combine the directory path and the file name to get the full file path
-                                        //string fullFilePath = Path.Combine(sPath, jsFileName);
+                                        //string fullFilePath = Path.Combine(sPath, jsFileName);// unc
 
                                         if (!Directory.Exists(sPath))
                                         {
                                             Directory.CreateDirectory(sPath);
                                         }
 
-                                        //File.WriteAllText(fullFilePath, $"{buf}{bufRow}");
-
-
+                                        //File.WriteAllText(fullFilePath, $"{buf}{bufRow}");// unc
 
                                         btFormat.ExportPrintPreviewToFile(sPath, sFileName, ImageType.JPEG, Seagull.BarTender.Print.ColorDepth.ColorDepth24bit, new Resolution(300), System.Drawing.Color.White, OverwriteOptions.Overwrite, false, false, out Messages sample);
 

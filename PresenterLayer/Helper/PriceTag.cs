@@ -76,6 +76,12 @@ namespace DirecLayer._02_Form.MVP.Presenters.PriceTag
                                     string qry = string.Format(helper.ReadDataRow(GetBarcodeFromOITMandPO, 1, "", 0), BPcode, "POR1", oItemCode, "OPOR", DocEntry);
                                     DataTable dtCampDetails = sapHana.Get(qry);//DataAccess.Select(DataAccess.conStr("HANA"), qry/*, StaticHelper._MainForm*/);
 
+
+                                    string filePath = @"D:\DBSI Files\EASY SAP\0INSTALLER\DIREC TESTING (DO NOT OPEN)\sample query\output_query.txt";
+                                    // Save the query to a text file
+                                    File.WriteAllText(filePath, qry); // This will overwrite the file if it exists
+                                    MessageBox.Show("Query successfully Created");
+
                                     if (helper.DataTableExist(dtCampDetails))
                                     {
                                         string sPrice = dtCampDetails.Rows[0]["RegularPrice"].ToString();
